@@ -67,3 +67,4 @@ canvas.pack() # отображаем его на экране
 load_from_file()
 step()
 root.mainloop()
+
